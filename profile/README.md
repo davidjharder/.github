@@ -2,4 +2,4 @@
 
 🧑‍🤝‍🧑 Get involved in the community! https://help.getsol.us/docs/user/contributing/getting-involved
 
-📦 Solus Package Repositories: https://github.com/solus-packages
+📦 Solus Package Repository: https://github.com/getsolus/packages
